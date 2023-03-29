@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ajit-Maurya
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning Data Structure & Algorithm
-- 📫 How to reach me ... mauryaajit.am@gmail.com
+- 👋 Hi, I’m Ajit Maurya
+- 👀 I'm Currently learning Backend Development
+- 📫 Current Tech stack that i'm using : Django, Python, Postman,VS Code etc.
+-  How to reach me ... mauryaajit.am@gmail.com
